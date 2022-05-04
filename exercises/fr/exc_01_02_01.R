@@ -1,0 +1,2 @@
+# Importe FactoMineRgit 
+library(FactoMineR)

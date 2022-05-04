@@ -26,17 +26,6 @@ Dans un premier temps, la fonction `head`permet de visualiser les premières lig
 
 <codeblock id="01_02_01"></codeblock>
 
-### Partie 2 : Anglais
-
-- Utilise `spacy.blank` pour créer un objet `nlp` anglais (`en`) vierge.
-- Crée un `doc` et affiche son texte.
-
-<codeblock id="01_02_02"></codeblock>
-
-### Partie 3 : Espagnol
-
-- Utilise `spacy.blank` pour créer un objet `nlp` espagnol (`es`) vierge.
-- Crée un `doc` et affiche son texte.
 
 <codeblock id="01_02_03"></codeblock>
 

@@ -8,7 +8,8 @@
     "juniper": {
         "repo": "ines/spacy-course",
         "branch": "binder",
-        "kernelType": "python3",
+        "lang": "r",
+        "kernelType": "ir",
         "debug": false
     },
     "theme": "#09a3d5"

@@ -9,7 +9,7 @@ export const Logo = ({ width = 300, height = 107, lang, className, ...props }) =
         <>
             <Logos aria-hidden="true" width={1} height={1} style={{ visibility: 'hidden' }} />
             <svg
-                aria-label={title}
+                aria-label={"test"}
                 viewBox={Logos.defaultProps.viewBox}
                 className={className}
                 width={width}
